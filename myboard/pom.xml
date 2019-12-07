@@ -8,7 +8,7 @@
 		<version>2.2.0.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>org.zerock</groupId>
+	<groupId>my.board</groupId>
 	<artifactId>myboard</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
