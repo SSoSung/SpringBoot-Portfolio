@@ -1,4 +1,4 @@
-# Spring Boot를 이용한 간단한 CRUD게시판과 KaKao API
+# Spring Boot를 이용한 간단한 CRUD게시판
 ---
 ---
 * Eclipse
