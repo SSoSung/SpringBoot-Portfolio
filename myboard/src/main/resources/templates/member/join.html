@@ -19,7 +19,7 @@
     <div class="content">
       <form method="post">
 
-         <input id="email" type="text" name="uid" title="id" placeholder="ID" required autofocus>
+         <input id="email" type="text" name="uid" title="id" placeholder="ID" required autofocus onkeyup="this.value=this.value.replace(/[^a-zA-Z_0-9]/g,'');">
         <input id="password" type="password" name="upw" title="password" placeholder="Password" required>
         <input id="email" type="text" name="uname"  title="name" placeholder="Name" required autofocus>
 
